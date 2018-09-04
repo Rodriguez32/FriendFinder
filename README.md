@@ -7,17 +7,15 @@
 
 <h3>Technologies Used: <h3>
 <ul>
+    <li>Bootstrap</li>
+    <li>JavaScript</li>
+    <li>jQuery</li>
     <li>Node.js</li>
     <li>Body-Parser NPM Package</li>
     <li>Express NPM Package</li>
     <li>Path NPM Package</li>
 </ul>
 
-
-<h3>Built With: <h3>
-<ul>
-    <li>Bootstrap</li>
-</ul>
 
 <h3>Authors<h3>
 <p>Ilda Rodriguez - Rodriguez32<p>
